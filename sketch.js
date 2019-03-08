@@ -5,11 +5,11 @@ var h = 700;
 /* Box Object */
 var Box;
 
-/* how var the box moves per frame */
-var sqrDist = w/20;
-
 /* Size of the Box */
 var BoxSize = 50;
+
+/* how var the box moves per frame */
+var sqrDist = w/20;
 
 /**
  * This function is the first thing that is called when setting up the program.
